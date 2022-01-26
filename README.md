@@ -1,0 +1,1 @@
+This repository is for my first data science project outisde of school. It will most likely be very similar to what I've already done, and serve to wet my feet before delving into something I can be more passionate about.
